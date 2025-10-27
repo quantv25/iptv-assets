@@ -1,4 +1,5 @@
 {
   "enabled": true,
-  "url": "https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/ads/splash.webp"
+  "noAdForVip": true,
+  "url": "https://cdn.jsdelivr.net/gh/quantv25/iptv-assets@main/ads/splash.mp4"
 }
